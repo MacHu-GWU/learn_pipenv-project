@@ -1,0 +1,7 @@
+-i https://pypi.org/simple
+attrs-mate==0.0.4
+attrs==19.1.0
+autopep8==1.4.3
+pathlib-mate==0.0.15
+pycodestyle==2.5.0
+six==1.12.0
